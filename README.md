@@ -17,10 +17,10 @@ Led the design and implementation of a GUI board game across three development m
 
 Built reservation and scheduling logic for table allocations and staff constraints, alongside functional utilities for ingredient deliveries and restaurant expenses. Exported schedules and shopping lists to CSV.
 
-### Interactive web application
-**Python · Flask · SQLite · JavaScript · HTML/CSS** | December 2022–January 2023
+### [CS50 Finance ↗](https://github.com/doma990/cs50-finance)
+**Python · Flask · SQLite · Jinja · Bootstrap** | December 2022–January 2023
 
-Developed a full-stack application with user authentication, routing, input validation, and relational data storage with CRUD operations.
+Built a stock-trading simulator with session-based accounts, portfolios, purchases and sales, and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://doma990.github.io/projects/cs50-finance/)
 
 ### 16-bit computer simulation
 **Logisim · Digital logic · Computer architecture** | March–May 2026
