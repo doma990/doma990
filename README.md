@@ -12,10 +12,10 @@ I build Java desktop applications and Python web applications, and explore funct
 
 Led the design and implementation of a GUI board game across three development milestones, using class hierarchies, interfaces, polymorphism, and exception handling.
 
-### Restaurant reservation system
-**Prolog · Haskell · CSV** | March–April 2026
+### [Restaurant Planning System ↗](https://github.com/doma990/restaurant-planning-system)
+**Prolog · Haskell · CSV** | Spring 2026
 
-Built reservation and scheduling logic for table allocations and staff constraints, alongside functional utilities for ingredient deliveries and restaurant expenses. Exported schedules and shopping lists to CSV.
+A CSEN 403 team project exploring reservation constraints in Prolog and supplies and expense transformations in Haskell. [Try the interactive demo →](https://doma990.github.io/projects/restaurant-planner/demo/) · [Design walkthrough →](https://doma990.github.io/projects/restaurant-planner/)
 
 ### [CS50 Finance ↗](https://github.com/doma990/cs50-finance)
 **Python · Flask · SQLite · Jinja · Bootstrap** | December 2022–January 2023
