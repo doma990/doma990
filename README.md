@@ -7,7 +7,7 @@ I build Java desktop applications and Python web applications, and explore funct
 
 ## Selected projects
 
-### [DooR DasH ↗](https://github.com/doma990/CSEN-401-Project---277)
+### [DooR DasH ↗](https://github.com/doma990/doordash-board-game)
 **Java · JavaFX · OOP · JUnit 4** | February–May 2026
 
 Led the design and implementation of a GUI board game across three development milestones, using class hierarchies, interfaces, polymorphism, and exception handling.
