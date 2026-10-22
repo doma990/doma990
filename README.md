@@ -1,7 +1,7 @@
 # Adam Ibrahim
 
 **Computer Science & Engineering student at the German University in Cairo**  
-Cairo, Egypt · [Portfolio](https://doma990.github.io/) · [GitHub](https://github.com/doma990) · [Email](mailto:adam04668@gmail.com)
+Cairo, Egypt · [Portfolio](https://doma990.github.io/) · [GitHub](https://github.com/doma990) · [Email](mailto:adam04668@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adam-ahmed-25194b29a)
 
 I build Java desktop applications and Python web applications, and explore functional and logic programming through hands-on projects. I’m studying at GUC on a full scholarship.
 
