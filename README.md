@@ -22,10 +22,10 @@ A CSEN 403 team project exploring reservation constraints in Prolog and supplies
 
 Built a stock-trading simulator with session-based accounts, portfolios, purchases and sales, and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://doma990.github.io/projects/cs50-finance/)
 
-### 16-bit computer simulation
+### [Mano Basic Computer ↗](https://github.com/doma990/mano-basic-computer)
 **Logisim · Digital logic · Computer architecture** | March–May 2026
 
-Designed and simulated a basic computer with a shared bus, control unit, RAM, ALU, and instruction registers.
+A Team 130 course project implementing a Mano-inspired basic computer in Logisim: a 16-bit bus, registers, RAM, an ALU, and hardwired control for seven direct-address instructions. [Design walkthrough →](https://doma990.github.io/projects/mano-basic-computer/)
 
 ## Toolkit
 
