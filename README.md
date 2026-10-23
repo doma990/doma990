@@ -29,7 +29,7 @@ A Team 130 course project implementing a Mano-inspired basic computer in Logisim
 
 ## Toolkit
 
-- **Languages:** Java, Python, C/C++, JavaScript, SQL, Prolog, Haskell
+- **Languages:** Java, Python, C, JavaScript, SQL, Prolog, Haskell
 - **Web & libraries:** Flask, Django, HTML/CSS, Bootstrap, Pandas, NumPy
 - **Tools & testing:** Git, GitHub, JUnit 4, VS Code, Eclipse, Logisim
 - **Currently learning:** Node.js
