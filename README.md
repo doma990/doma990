@@ -15,7 +15,7 @@ Led the design and implementation of a GUI board game across three development m
 ### [Restaurant Planning System ↗](https://github.com/doma990/restaurant-planning-system)
 **Prolog · Haskell · CSV** | Spring 2026
 
-A CSEN 403 team project exploring reservation constraints in Prolog and supplies and expense transformations in Haskell. [Try the interactive demo →](https://doma990.github.io/projects/restaurant-planner/demo/) · [Design walkthrough →](https://doma990.github.io/projects/restaurant-planner/)
+A team project exploring reservation constraints in Prolog and supplies and expense transformations in Haskell. [Try the interactive demo →](https://doma990.github.io/projects/restaurant-planner/demo/) · [Design walkthrough →](https://doma990.github.io/projects/restaurant-planner/)
 
 ### [CS50 Finance ↗](https://github.com/doma990/cs50-finance)
 **Python · Flask · SQLite · Jinja · Bootstrap** | December 2022–January 2023
@@ -25,7 +25,7 @@ Built a stock-trading simulator with session-based accounts, portfolios, purchas
 ### [Mano Basic Computer ↗](https://github.com/doma990/mano-basic-computer)
 **Logisim · Digital logic · Computer architecture** | March–May 2026
 
-A Team 130 course project implementing a Mano-inspired basic computer in Logisim: a 16-bit bus, registers, RAM, an ALU, and hardwired control for seven direct-address instructions. [Design walkthrough →](https://doma990.github.io/projects/mano-basic-computer/)
+An implementation of a Mano-inspired basic computer in Logisim: a 16-bit bus, registers, RAM, an ALU, and hardwired control for seven direct-address instructions. [Design walkthrough →](https://doma990.github.io/projects/mano-basic-computer/)
 
 ## Toolkit
 
