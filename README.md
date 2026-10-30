@@ -26,7 +26,7 @@ Built a stock-trading simulator with registration, session-based authentication,
 
 - **Languages:** Java, Python, JavaScript, C, SQL (T-SQL), Prolog, Haskell
 - **Web Technologies:** HTML/CSS, Flask, Jinja, Bootstrap
-- **Libraries & Frameworks:** JavaFX, JUnit 4, Pandas, NumPy
+- **Libraries & Frameworks:** JavaFX, JUnit 4, NumPy
 - **Databases:** Microsoft SQL Server, SQLite
 - **Tools:** Git, GitHub, VS Code, Eclipse
 - **Core Concepts:** Object-Oriented Programming, Data Structures and Algorithms, Relational Databases, Functional & Logic Programming
