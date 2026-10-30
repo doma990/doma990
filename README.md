@@ -3,7 +3,7 @@
 **Computer Science & Engineering student at the German University in Cairo**  
 Cairo, Egypt · [Portfolio](https://doma990.github.io/) · [Email](mailto:adam04668@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adam-ahmed-25194b29a)
 
-I build Java desktop applications and Python web applications, and I’m particularly interested in backend development. I have experience with JavaScript and am currently learning Node.js.
+I build Java desktop applications and Python web applications, and I’m particularly interested in backend development. I have experience with JavaScript and am currently learning Node.js. 📄 [View My CV](./assets/CV.pdf)
 
 ## Selected projects
 
