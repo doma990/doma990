@@ -7,25 +7,20 @@ I build Java desktop applications and Python web applications, and I’m particu
 
 ## Selected projects
 
-### [DooR DasH ↗](https://github.com/doma990/doordash-board-game)
-**Java · JavaFX · OOP · JUnit 4** | February–May 2026
+### [Automata Lab ↗](https://github.com/doma990/automata-lab)
+**JavaScript · HTML/CSS · SVG** | September 2026–Present
 
-Led the design and implementation of a GUI board game across three development milestones, using class hierarchies, interfaces, polymorphism, and exception handling.
+An interactive finite automata workspace for defining machines, visualizing transitions, and exploring string acceptance through step-by-step simulation. Supports DFA union, intersection, complement, and batch string testing, with separate model, application logic, and interface layers. [Open the workspace →](https://doma990.github.io/automata-lab/) · [Project overview →](https://doma990.github.io/projects/automata-lab/)
 
-### [Restaurant Planning System ↗](https://github.com/doma990/restaurant-planning-system)
-**Prolog · Haskell · CSV** | Spring 2026
+### [DooR DasH Game ↗](https://github.com/doma990/doordash-board-game)
+**Java · OOP · JUnit 4 · Git · GitHub** | February–May 2026
 
-A team project exploring reservation constraints in Prolog and supplies and expense transformations in Haskell. [Try the interactive demo →](https://doma990.github.io/projects/restaurant-planner/demo/) · [Design walkthrough →](https://doma990.github.io/projects/restaurant-planner/)
+Led the design and implementation of a Java board game across three development milestones, covering game logic and a graphical interface. Modeled game entities using class hierarchies, interfaces, and polymorphism, with exception handling to enforce game rules and handle invalid actions. [Project walkthrough →](https://doma990.github.io/projects/doordash/)
 
-### [CS50 Finance ↗](https://github.com/doma990/cs50-finance)
-**Python · Flask · SQLite · Jinja · Bootstrap** | December 2022–January 2023
+### [CS50 Finance and Stocks ↗](https://github.com/doma990/cs50-finance)
+**Python · Flask · SQLite3 · Jinja · Bootstrap** | December 2022–January 2023
 
-Built a stock-trading simulator with session-based accounts, portfolios, purchases and sales, and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://doma990.github.io/projects/cs50-finance/)
-
-### [Mano Basic Computer ↗](https://github.com/doma990/mano-basic-computer)
-**Logisim · Digital logic · Computer architecture** | March–May 2026
-
-An implementation of a Mano-inspired basic computer in Logisim: a 16-bit bus, registers, RAM, an ALU, and hardwired control for seven direct-address instructions. [Design walkthrough →](https://doma990.github.io/projects/mano-basic-computer/)
+Built a stock-trading simulator with registration, session-based authentication, stock quotes, and simulated purchases and sales. Used SQLite to store accounts, cash balances, and transactions, supporting portfolio views and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://doma990.github.io/projects/cs50-finance/)
 
 ## Toolkit
 
