@@ -24,10 +24,12 @@ Built a stock-trading simulator with registration, session-based authentication,
 
 ## Toolkit
 
-- **Languages:** Java, Python, C, JavaScript, SQL, Prolog, Haskell
-- **Web & libraries:** Flask, Django, HTML/CSS, Bootstrap, Pandas, NumPy
-- **Tools & testing:** Git, GitHub, JUnit 4, VS Code, Eclipse, Logisim
-- **Currently learning:** Node.js
+- **Languages:** Java, Python, JavaScript, C, SQL (T-SQL), Prolog, Haskell
+- **Web Technologies:** HTML/CSS, Flask, Jinja, Bootstrap
+- **Libraries & Frameworks:** JavaFX, JUnit 4, Pandas, NumPy
+- **Databases:** Microsoft SQL Server, SQLite
+- **Tools:** Git, GitHub, VS Code, Eclipse
+- **Core Concepts:** Object-Oriented Programming, Data Structures and Algorithms, Relational Databases, Functional & Logic Programming
 
 ## Beyond code
 
