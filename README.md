@@ -31,10 +31,6 @@ Built a stock-trading simulator with registration, session-based authentication,
 - **Tools:** Git, GitHub, VS Code, Eclipse
 - **Core Concepts:** Object-Oriented Programming, Data Structures and Algorithms, Relational Databases, Functional & Logic Programming
 
-## Beyond code
-
-Previously a Senior Call Center Agent at Wazowski Outsourcing, where I supported agent training and worked with clients and leadership. I bring that experience in communication and collaboration to my engineering work.
-
 ---
 
 [Get in touch →](mailto:adam.ibrahim.dev@gmail.com)
